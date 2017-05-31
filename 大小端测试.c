@@ -25,7 +25,7 @@ int main()
 //大端存储高字节存高地址，小端存储反之
 
 //快速确定机器大小端的方法
-int main()
+/*int main()
 {
     int i = 1;
     char *a = (char *)&i;
@@ -40,4 +40,6 @@ int main()
     }
 
     return 0;
-}
+}*/
+
+
